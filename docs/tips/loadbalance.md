@@ -15,7 +15,7 @@ Load.MarzbanNameh.com
 
 IPv4: 1.1.1.1 
 
-TTL: 1 Minute 
+TTL: 10 Minute 
 :::
 
 :::note رکورد دوم
