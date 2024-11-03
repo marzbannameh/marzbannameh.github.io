@@ -8,19 +8,19 @@ sidebar_position: 1
 
 ## کانال تلگرام
 
-- ( **https://t.me/Marzban_Nameh** )
+- **[t.me/Marzban_Nameh](https://t.me/Marzban_Nameh)**
 
 - کانال تلگرام مرزبان‌نامه آرشیو گسترده‌ای از آموزش‌های مربوط به مرزبان است.
 
 ## کانال یوتیوب
 
-- ( **https://www.youtube.com/@MarzbanNameh** )
+- **[www.youtube.com/@MarzbanNameh](https://www.youtube.com/@MarzbanNameh)**
 
 - کانال یوتیوب مرزبان‌نامه هنوز در ابتدای کار هست اما چند ویدیو در خصوص موارد اولیه راه‌اندازی مرزبان وجود دارد.
 
 ## گیت‌هاب
 
-- ( **https://github.com/marzbannameh** )
+- **[github.com/marzbannameh](https://github.com/marzbannameh)**
 
 - گیت‌هاب مرزبان‌نامه فعلا فقط شامل پروژه‌ی مربوط به این سایت است که اگر علاقه دارین میتونین نکات و بخش‌های جدیدی که در نظر دارین به آن اضافه کنین.
 
