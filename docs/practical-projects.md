@@ -40,4 +40,5 @@ sidebar_position: 9
 
 - **https://github.com/ItsAML/X-Ui-to-Marzban**
 
-- **https://github.com/ItsAML/Hiddify-To-Marzban**
+- **[ItsAML/Hiddify-To-Marzban](https://github.com/ItsAML/Hiddify-To-Marzban)**
+  
