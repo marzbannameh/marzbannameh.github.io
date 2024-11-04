@@ -34,6 +34,8 @@ sidebar_position: 10
 
 📥 [**ShadowRocket**](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
+📥 [**Hiddify**](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532)
+
 📥 [**FairVPN**](https://apps.apple.com/us/app/fair-vpn/id1533873488?platform=iphone)
 
 📥 [**OneClick**](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197)

@@ -101,3 +101,9 @@ sudo ufw allow 443
 ```shell
 sudo ufw deny 443
 ```
+
+- با دستور زیر مشخصات سرور را ببینید.
+
+```shell
+wget -qO- bench.sh | bash 
+```
